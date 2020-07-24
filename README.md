@@ -2,9 +2,6 @@
 
 ![Done](https://github.com/rishabhpurohit/CppND-System-Monitor-Completed/blob/master/images/up%20and%20running%20.png)
 
-![System Monitor](images/monitor.png)
-
-
 ## ncurses
 [ncurses](https://www.gnu.org/software/ncurses/) is a library that facilitates text-based graphical output in the terminal. This project relies on ncurses for display output.
 
@@ -20,4 +17,4 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 * `clean` deletes the `build/` directory, including all of the build artifacts
 --------------------
 ALL Done
---------------------
+
